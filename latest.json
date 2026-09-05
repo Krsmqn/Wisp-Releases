@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "0.8.10",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.10-build71/Wisp-0.8.10-build71.apk",
-  "sha256": "e0140fd76703bac1c763a89acfba80be66737f3a38b520e3165397127039dedd",
-  "notes": "Fix Android installer handoff and update progress"
+  "versionCode": 72,
+  "versionName": "0.8.11",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.11-build72/Wisp-0.8.11-build72.apk",
+  "sha256": "a1985a17426d16674eb25d89bd1c77a2de232cfce367f69e34b6c61e149ff696",
+  "notes": "OTA UX test: verify Android installer handoff and progress flow"
 }
