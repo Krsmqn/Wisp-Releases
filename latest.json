@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "0.8.13",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.13-build74/Wisp-0.8.13-build74.apk",
-  "sha256": "70b1c1d7dbd19317a5ed45ea5ebb0f234bc62cffa06cd3b28515269a9f0a2142",
-  "notes": "Fix post-update Home return using package replacement receiver"
+  "versionCode": 75,
+  "versionName": "0.8.14",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.14-build75/Wisp-0.8.14-build75.apk",
+  "sha256": "61d9411a65df14d132dd190ee86a56e0f37c80fd8d2c81d364789b196fc54e0e",
+  "notes": "OTA bootstrap: permanent signing and in-app updater"
 }
