@@ -1,0 +1,7 @@
+{
+  "versionCode": 69,
+  "versionName": "0.8.8",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.8-build69/Wisp-0.8.8-build69.apk",
+  "sha256": "a699f9a2d2e9b0d9d97297650cf37a0dad3896333b05b53d18988cf501f5f80a",
+  "notes": "OTA bootstrap: permanent signing and in-app updater"
+}
