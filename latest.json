@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "0.8.17",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.17-build78/Wisp-0.8.17-build78.apk",
-  "sha256": "b5cae264afb3baab498103110fa203bc1e6370b9fb7bfde21df8152a8cb138c6",
-  "notes": "Build only the self-contained Wisp app in CI"
+  "versionCode": 79,
+  "versionName": "0.8.18",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.18-build79/Wisp-0.8.18-build79.apk",
+  "sha256": "65a64c069801d74a63b2643d7e2567147c36940e802a93bcc1f599247feae4d6",
+  "notes": "Publish Wisp 0.8.18 build 79 self-update test"
 }
