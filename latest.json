@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "0.8.25",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.25-build86/Wisp-0.8.25-build86.apk",
-  "sha256": "22b877f0c720dca780e4a3bbe38f41a538730d7a8f0e00ec09d0390dc90e6bf6",
-  "notes": "Publish Wisp 0.8.25 build 86 shareable diagnostics"
+  "versionCode": 87,
+  "versionName": "0.8.26",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.26-build87/Wisp-0.8.26-build87.apk",
+  "sha256": "334bbae68cdf8eed4ab942efb4e6320b09a7e0c625c060636b1050f8ae7719ce",
+  "notes": "Label debug artifact for Wisp 0.8.26 build 87"
 }
