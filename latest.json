@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "0.8.23",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.23-build84/Wisp-0.8.23-build84.apk",
-  "sha256": "6bdd4f230770c1fb0e120afbfc71f40723b963401ca84e1aaf02b79996257441",
-  "notes": "Label debug artifact as 0.8.23 build 84"
+  "versionCode": 85,
+  "versionName": "0.8.24",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.24-build85/Wisp-0.8.24-build85.apk",
+  "sha256": "839fb55c1d8a10488325b6ee65e2bcde4597709ffcebeca1835513a83f3a45c3",
+  "notes": "Publish Wisp 0.8.24 build 85 widget and Discover stability fixes"
 }
