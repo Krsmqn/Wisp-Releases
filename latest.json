@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "0.8.18",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.18-build79/Wisp-0.8.18-build79.apk",
-  "sha256": "65a64c069801d74a63b2643d7e2567147c36940e802a93bcc1f599247feae4d6",
-  "notes": "Publish Wisp 0.8.18 build 79 self-update test"
+  "versionCode": 80,
+  "versionName": "0.8.19",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.19-build80/Wisp-0.8.19-build80.apk",
+  "sha256": "a333c8269a9f7f82f100752245e49e4c99e42a4983a17d8f0f825cb511403e81",
+  "notes": "Restore stable Wisp OTA publisher"
 }
