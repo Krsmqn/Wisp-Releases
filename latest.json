@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "0.8.31",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.31-build92/Wisp-0.8.31-build92.apk",
-  "sha256": "383b27afe4d58d810e376a688c42de90f66938161efadc861b54834841b3b8d5",
-  "notes": "Fix Wisp sports ticker in 0.8.31"
+  "versionCode": 93,
+  "versionName": "0.8.32",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.32-build93/Wisp-0.8.32-build93.apk",
+  "sha256": "28161b3da7ccc38e24024da403ca53298a529cb6f75155d25551b74c8efe7788",
+  "notes": "Build Wisp 0.8.32"
 }
