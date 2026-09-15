@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "0.8.40",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.40-build101/Wisp-0.8.40-build101.apk",
-  "sha256": "02ac0fb4cda02a4f3fd95c75014b8746c7cc7a50a63f17e9598ec035c12f08b1",
-  "notes": "Merge pull request #14 from Krsmqn/wisp-fox12-parser-fix-0.8.40"
+  "versionCode": 102,
+  "versionName": "0.8.41",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.41-build102/Wisp-0.8.41-build102.apk",
+  "sha256": "c27ecd5265f09e2b50cc3feb5065936f3134e7c6db6f7668b98fe35c567a2403",
+  "notes": "Name debug artifact for build 102"
 }
