@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "0.8.41",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.41-build102/Wisp-0.8.41-build102.apk",
-  "sha256": "495312e15bef39cf52a4c04969ae4d55a1f1816df04bd8c312a122523d22b2e6",
-  "notes": "Register legacy shortcut proxy activity"
+  "versionCode": 103,
+  "versionName": "0.8.42",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.42-build103/Wisp-0.8.42-build103.apk",
+  "sha256": "18d44833019dd4bff4083164d9fa8630a81f244824dcf304ff944720f882b1da",
+  "notes": "Bump Wisp to 0.8.42 build 103"
 }
