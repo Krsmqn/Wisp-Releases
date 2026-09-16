@@ -2,6 +2,6 @@
   "versionCode": 102,
   "versionName": "0.8.41",
   "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.41-build102/Wisp-0.8.41-build102.apk",
-  "sha256": "c27ecd5265f09e2b50cc3feb5065936f3134e7c6db6f7668b98fe35c567a2403",
-  "notes": "Name debug artifact for build 102"
+  "sha256": "495312e15bef39cf52a4c04969ae4d55a1f1816df04bd8c312a122523d22b2e6",
+  "notes": "Register legacy shortcut proxy activity"
 }
