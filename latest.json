@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "0.8.52",
-  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.52-build113/Wisp-0.8.52-build113.apk",
-  "sha256": "b5a7839ee0963c7a396c6d2371e2152aea7f06998bae75969a220632361250c2",
-  "notes": "Merge Wisp 0.8.52 build 113"
+  "versionCode": 114,
+  "versionName": "0.8.53",
+  "apkUrl": "https://github.com/Krsmqn/Wisp-Releases/releases/download/v0.8.53-build114/Wisp-0.8.53-build114.apk",
+  "sha256": "1280c8ab7469c8b847de4565081e482380add536f033d22d96020557d5740e4d",
+  "notes": "Merge Wisp 0.8.53 build 114"
 }
